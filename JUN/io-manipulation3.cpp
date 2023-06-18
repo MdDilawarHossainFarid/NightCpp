@@ -9,7 +9,10 @@ Io manipulation  for formatting manipulation of output
 
 
 #include<iostream>
+#include <iomanip> 
+
 using namespace std;
+
 
 int main(){
     int a = 12;
